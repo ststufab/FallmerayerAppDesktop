@@ -1,0 +1,17 @@
+{
+  "name": "fallmerayerda",
+  "version": "1.0.0",
+  "description": "Fallmerayer Desktop Anwendung",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Stuerz Fabian",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.11",
+    "electron-packager": "^14.2.0",
+    "electron-reload": "^1.5.0"
+  }
+}
